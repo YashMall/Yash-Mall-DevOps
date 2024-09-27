@@ -1,5 +1,5 @@
 # Yash-Mall-DevOps
-# Hello World Java Application 🚀
+## Project Assignment - 1 : Hello World Java Application 🚀
 
 This project is a simple Java Hello World application built using Maven. It was developed as part of an assignment to learn the basics of Java development, version control using Git, and continuous integration with Jenkins.
 
@@ -68,8 +68,15 @@ This project helped in gaining a practical understanding of the following concep
 ## 🤝 Contributing
 Feel free to fork this repository, make updates, and submit a pull request!
 
-## 📜 License
-This project is licensed under the MIT License.
+## 📬 Contact
+
+For any questions or feedback, please open an issue on the repository or contact the project maintainer.
+
+![author](https://img.shields.io/badge/author-Yash--Mall-blue)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/yashmall/)
+
 
 ---
-Happy Coding! 😄
+
+
+<p align="center"> Happy Learning! 📚 </p>
